@@ -17,7 +17,7 @@ I’m a **Computer Science undergraduate at IIT** who enjoys building clean, fun
 I’m especially interested in **backend logic**, **frontend UI**, and **game development**.
 
 - 🧠 Strong interest in **☕ Java** | **🌐 JavaScript** | **⚙️ C / C++** | **🧩 PHP**
-- 🌐 Working on modern **web interfaces**  
+- 🌐 Working on modern **web interfaces**
 - 🚀 Constantly improving through hands-on projects  
 
 ---
@@ -34,19 +34,43 @@ I’m especially interested in **backend logic**, **frontend UI**, and **game de
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-### Tools  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
 ---
 
-## 📊 GitHub Stats  
+## 🧰 Languages & Tools  
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sudamamarajeewa&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sudamamarajeewa&layout=compact&theme=tokyonight)
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css,php,c,cpp,mysql,git,github,vscode,figma&theme=dark" />
+
+</div>
+
+---
+
+## 📊 GitHub Stats (Dark Theme)
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sudamamarajeewa&show_icons=true&theme=github_dark&hide_border=true" />
+
+</div>
+
+---
+
+## 🔥 GitHub Streak (Dark Theme)
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sudamamarajeewa&theme=github-dark&hide_border=true" />
+
+</div>
+
+---
+
+## 💻 Most Used Languages (Dark Theme)
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudamamarajeewa&layout=compact&theme=github_dark&hide_border=true" />
 
 </div>
 
