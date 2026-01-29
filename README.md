@@ -13,6 +13,7 @@
 ---
 
 ## 👨‍💻 About Me  
+
 I’m a **Computer Science undergraduate at IIT** who enjoys building clean, functional, and creative software solutions.  
 I’m especially interested in **backend logic**, **frontend UI**, and **game development**.
 
@@ -48,12 +49,8 @@ I’m especially interested in **backend logic**, **frontend UI**, and **game de
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sudamamarajeewa&show_icons=true&theme=dark&hide_border=true" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudamamarajeewa&layout=compact&theme=dark&hide_border=true" height="160"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=sudamamarajeewa&theme=dark&hide_border=true" height="160"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sudamamarajeewa&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sudamamarajeewa&layout=compact&theme=tokyonight)
 
 </div>
 
