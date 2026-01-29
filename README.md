@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/sudamamarajeewa/sudamamarajeewa/main/readme.gif" alt="Developer Mode" width="600"/>
+  <img src="https://raw.githubusercontent.com/sudamamarajeewa/sudamamarajeewa/main/readme.gif" alt="Developer Mode" width="300"/>
 </div>
 
 <div align="center">
