@@ -39,38 +39,21 @@ I’m especially interested in **backend logic**, **frontend UI**, and **game de
 ## 🧰 Languages & Tools  
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,python,js,html,css,php,c,cpp,mysql,git,github,vscode,figma&theme=dark" />
-
+  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,php,c,cpp,mysql,git,github,vscode,figma&theme=dark" />
 </div>
 
 ---
 
-## 📊 GitHub Stats (Dark Theme)
+## 📊 GitHub Stats  
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sudamamarajeewa&show_icons=true&theme=github_dark&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=sudamamarajeewa&show_icons=true&theme=dark&hide_border=true" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudamamarajeewa&layout=compact&theme=dark&hide_border=true" height="160"/>
 
-</div>
+<br/>
 
----
-
-## 🔥 GitHub Streak (Dark Theme)
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sudamamarajeewa&theme=github-dark&hide_border=true" />
-
-</div>
-
----
-
-## 💻 Most Used Languages (Dark Theme)
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudamamarajeewa&layout=compact&theme=github_dark&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=sudamamarajeewa&theme=dark&hide_border=true" height="160"/>
 
 </div>
 
