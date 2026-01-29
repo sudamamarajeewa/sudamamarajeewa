@@ -62,7 +62,7 @@ I’m especially interested in **backend logic**, **frontend UI**, and **game de
 <a href="https://www.instagram.com/sudam_amarajeewa" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>&nbsp;
-<a href="https://www.facebook.com/sudam_amarajeewa" target="_blank">
+<a href="https://www.facebook.com/sudam.amarajeewa" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
