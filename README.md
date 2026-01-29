@@ -49,7 +49,8 @@ I’m especially interested in **backend logic**, **frontend UI**, and **game de
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sudamamarajeewa&show_icons=true&theme=tokyonight&hide_border=true" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sudamamarajeewa&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sudamamarajeewa&layout=compact&theme=tokyonight)
 
 </div>
 
